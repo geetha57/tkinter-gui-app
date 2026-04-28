@@ -1,4 +1,3 @@
-# work
 # Simple Tkinter GUI (500x500 Window)
 
 This is a basic Python GUI application built with **Tkinter**.  
